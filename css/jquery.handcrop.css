@@ -1,0 +1,15 @@
+#handcrop_crop {
+    border: 1px dashed #ccc;
+    overflow: hidden;
+    margin:auto;
+}
+#handcrop_container {
+    position:relative;
+    top:0;
+    left:0;
+}
+#handcrop_crop img {
+    cursor:move;
+    position:relative;
+}
+
